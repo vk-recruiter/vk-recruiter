@@ -4,7 +4,7 @@
 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 Reach me @vkrishnan.hr@gmail.com
+- 📫 Reach me @vk-recruiter
 
 <!---
 vk-recruiter/vk-recruiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
