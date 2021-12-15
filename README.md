@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vk-recruiter
-- 👀 I’m interested in connecting with Developers and Testers
+- 👋 Hi, I’m Vinod
+- 👀 I’m always on the lookout for talented individuals looking for something better
 <!---- 
 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
